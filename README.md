@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 <!--
 **buihdk/buihdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello there 👋
+### Here's a bit about me:
+---
+- 👨‍💻 I'm a full-stack developer with a focus on front-end architecture.
+- 🔄 I've got a knack for setting up apps from scratch and seamlessly transitioning old legacy systems to cutting-edge technology.
+- 🎾 When I'm not coding, I'm a competitive tennis player with a love for the game.
+- ⛰️ I'm also a fitness enthusiast who enjoys hiking and working out.
+- 🎓 Presently, I'm broadening my skills by pursuing a part-time MS degree at Georgia Tech, where I'm specializing in Machine Learning.
+
+
+### 📫 You can reach me at:
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/buihdk/)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=buihdk&theme=transparent&hide_border=true)](https://git.io/streak-stats)
