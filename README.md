@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 - 🎾 When I'm not coding, I'm a competitive tennis player with a love for the game.
 - ⛰️ I'm also a fitness enthusiast who enjoys hiking and working out.
 - 🎓 Presently, I'm broadening my skills by pursuing a part-time MS degree at Georgia Tech, where I'm specializing in Machine Learning.
+- 📫 I'm always open to discussing potential opportunities and interesting projects. Feel free to reach out to me at:
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/buihdk/) [![Gmail](https://img.shields.io/badge/Gmail-08851b?logo=gmail)](mailto:buihdk@gmail.com) 
 
 
-#### 📫 You can reach me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/buihdk/) [![Gmail](https://img.shields.io/badge/Gmail-f2a60c?style=flat-square&logo=gmail)](mailto:buihdk@gmail.com)
 
 ---
 
