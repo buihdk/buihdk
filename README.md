@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🎾 When I'm not coding, I'm a competitive tennis player with a love for the game.
 - ⛰️ I'm also a fitness enthusiast who enjoys hiking and working out.
 - 🎓 Presently, I'm broadening my skills by pursuing a part-time MS degree at Georgia Tech, where I'm specializing in Machine Learning.
-- 📫 I'm always open to discussing potential opportunities and interesting projects. Feel free to reach out to me at:
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/buihdk/) [![Gmail](https://img.shields.io/badge/Gmail-08851b?logo=gmail)](mailto:buihdk@gmail.com) 
+- 📫 I'm always open to discussing potential opportunities and interesting projects. Feel free to shoot me a message or connect with me on LinkedIn.
+  
+  [![Email](https://img.shields.io/badge/Email-30B980?logo=minutemailer&logoColor=FFFFFF)](mailto:contact@buihdk.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/buihdk/) 
 
 #### My current stack 👨‍💻 
 [<img width=36 height=36 src=https://cdn.simpleicons.org/javascript alt=javascript></a>]([https://developer.mozilla.org/en-US/docs/Glossary/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 [<img width=36 height=36 src=https://cdn.simpleicons.org/expo alt=expo></a>](https://expo.dev/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/azuredevops alt=azuredevops></a>](https://azure.microsoft.com/en-us/products/devops)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/amazonaws alt=amazonaws></a>](https://aws.amazon.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width=36 height=36 src=https://cdn.simpleicons.org/openai alt=openai></a>](https://platform.openai.com/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
