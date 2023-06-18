@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🎓 Presently, I'm broadening my skills by pursuing a part-time MS degree at Georgia Tech, where I'm specializing in Machine Learning.
 
 
-#### 📫 You can reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/buihdk/)
+#### 📫 You can reach me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/buihdk/)
 
 ---
 
