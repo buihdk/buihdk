@@ -1,0 +1,22 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: "0 0 * * *" # runs at every 12AM UTC
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: buihdk/waka-readme@main
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GIT_AUTHOR_NAME: ${{ secrets.GIT_AUTHOR_NAME }}
+          GIT_AUTHOR_EMAIL: ${{ secrets.GIT_AUTHOR_EMAIL }}
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 8
