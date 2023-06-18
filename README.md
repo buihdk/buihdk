@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/buihdk/) [![Gmail](https://img.shields.io/badge/Gmail-08851b?logo=gmail)](mailto:buihdk@gmail.com) 
 
----
-
 #### Current stack
 [<img width=36 height=36 src=https://cdn.simpleicons.org/javascript alt=javascript></a>]([https://developer.mozilla.org/en-US/docs/Glossary/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/typescript alt=typescript></a>](https://typescriptlang.org)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,6 +38,8 @@ Here are some ideas to get you started:
 [<img width=36 height=36 src=https://cdn.simpleicons.org/azuredevops alt=azuredevops></a>](https://azure.microsoft.com/en-us/products/devops)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/amazonaws alt=amazonaws></a>](https://aws.amazon.com/)&nbsp;&nbsp;&nbsp;&nbsp;
 
+---
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -52,5 +52,4 @@ YAML   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 
 <!--END_SECTION:waka-->
 
----
 [![GitHub Streak](https://streak-stats.demolab.com?user=buihdk&theme=transparent&hide_border=true)](https://git.io/streak-stats)
