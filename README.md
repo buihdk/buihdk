@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello there 👋
-### Here's a bit about me:
----
+#### Here's a bit about me: 
 - 👨‍💻 I'm a full-stack developer with a focus on front-end architecture.
 - 🔄 I've got a knack for setting up apps from scratch and seamlessly transitioning old legacy systems to cutting-edge technology.
 - 🎾 When I'm not coding, I'm a competitive tennis player with a love for the game.
@@ -23,10 +22,9 @@ Here are some ideas to get you started:
 - 🎓 Presently, I'm broadening my skills by pursuing a part-time MS degree at Georgia Tech, where I'm specializing in Machine Learning.
 
 
-### 📫 You can reach me at:
+#### 📫 You can reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/buihdk/) [![Gmail](https://img.shields.io/badge/Gmail-f2a60c?style=flat-square&logo=gmail)](mailto:buihdk@gmail.com)
+
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/buihdk/)
-[![Gmail](https://img.shields.io/badge/Gmail-f2a60c?style=flat-square&logo=gmail)](mailto:buihdk@gmail.com)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
