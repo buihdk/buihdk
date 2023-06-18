@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello there 👋
-#### Here's a bit about me: 
+#### Here's a bit about me 
 - 👨‍💻 I'm a full-stack developer with a focus on front-end architecture.
 - 🔄 I've got a knack for setting up apps from scratch and seamlessly transitioning old legacy systems to cutting-edge technology.
 - 🎾 When I'm not coding, I'm a competitive tennis player with a love for the game.
