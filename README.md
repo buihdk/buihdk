@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [<img width=36 height=36 src=https://cdn.simpleicons.org/graphql alt=graphql></a>](https://graphql.org/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/nodedotjs alt=nodedotjs></a>]([https://graphql.org/](https://nodejs.org/))&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/flask alt=flask></a>](https://flask.palletsprojects.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/pandas alt=pandas></a>](https://pandas.pydata.org/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width=36 height=36 src=https://cdn.simpleicons.org/firebase alt=firebase></a>](https://pandas.pydata.org/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/microsoftsqlserver alt=microsoftsqlserver></a>](https://www.microsoft.com/en-us/sql-server)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/sqlite alt=sqlite></a>](https://www.sqlite.org/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/expo alt=expo></a>](https://expo.dev/)&nbsp;&nbsp;&nbsp;&nbsp;
