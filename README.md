@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/buihdk/) 
 
-#### My current stack 👨‍💻 
+#### Current stack 👨‍💻 
 [<img width=36 height=36 src=https://cdn.simpleicons.org/javascript alt=javascript></a>]([https://developer.mozilla.org/en-US/docs/Glossary/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/typescript alt=typescript></a>](https://typescriptlang.org)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width=36 height=36 src=https://cdn.simpleicons.org/python alt=python></a>](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;
