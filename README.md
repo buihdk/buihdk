@@ -45,19 +45,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2023 - To: 06 July 2023
+From: 17 June 2023 - To: 07 July 2023
 
-Total Time: 25 hrs 59 mins
+Total Time: 26 hrs 17 mins
 
-JavaScript   12 hrs 48 mins  ████████████▒░░░░░░░░░░░░   49.30 %
-Python       10 hrs 13 mins  █████████▓░░░░░░░░░░░░░░░   39.31 %
-JSON         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JavaScript   13 hrs 6 mins   ████████████▒░░░░░░░░░░░░   49.87 %
+Python       10 hrs 13 mins  █████████▓░░░░░░░░░░░░░░░   38.87 %
+JSON         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 CSV          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
