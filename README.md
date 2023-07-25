@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2023 - To: 22 July 2023
+From: 17 June 2023 - To: 23 July 2023
 
 Total Time: 45 hrs 34 mins
 
@@ -57,7 +57,7 @@ HTML         1 hr 28 mins    ▓░░░░░░░░░░░░░░░░
 Markdown     51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 Other        48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 Text         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-CSS          15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+CSS          16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 Bash         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
