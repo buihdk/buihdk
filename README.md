@@ -63,4 +63,4 @@ Bash         15 mins         ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=buihdk&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=buihdk&theme=transparent&hide_border=true)](https://git.io/streak-stats)-->
