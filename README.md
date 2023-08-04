@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📦 I've got a knack for setting up apps from scratch and seamlessly transitioning old legacy systems to cutting-edge technology.
 - 🎾 When I'm not coding, I'm a competitive tennis player with a love for the game.
 - ⛰️ I'm also a fitness enthusiast who enjoys hiking and working out.
-- 🎓 Presently, I'm broadening my skills by pursuing a part-time MS degree at Georgia Tech, where I'm specializing in Machine Learning.
+- 🎓 Presently, I'm broadening my skills by pursuing a MS degree at Georgia Tech, where I'm specializing in Machine Learning.
 - 📫 I'm always open to discussing potential opportunities and interesting projects. Feel free to shoot me a message or connect with me on LinkedIn.
   
   [![Email](https://img.shields.io/badge/Email-30B980?logo=minutemailer&logoColor=FFFFFF)](mailto:contact@buihdk.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/buihdk/) 
