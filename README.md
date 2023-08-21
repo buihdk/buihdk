@@ -45,20 +45,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2023 - To: 18 August 2023
+From: 17 June 2023 - To: 19 August 2023
 
-Total Time: 118 hrs 31 mins
+Total Time: 120 hrs 55 mins
 
-JavaScript   42 hrs 56 mins  █████████░░░░░░░░░░░░░░░░   36.22 %
-TypeScript   29 hrs 5 mins   ██████░░░░░░░░░░░░░░░░░░░   24.55 %
-Python       24 hrs 5 mins   █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-JSON         7 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-C            5 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-HTML         2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Markdown     1 hr 57 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Other        1 hr 53 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Bash         48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Git Config   44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+JavaScript   43 hrs 12 mins  █████████░░░░░░░░░░░░░░░░   35.74 %
+TypeScript   30 hrs 29 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
+Python       24 hrs 5 mins   █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+JSON         7 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+C            5 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+HTML         2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Markdown     1 hr 57 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Other        1 hr 53 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Bash         48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+CSS          47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
