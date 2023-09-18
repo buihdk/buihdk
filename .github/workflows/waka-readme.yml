@@ -13,6 +13,7 @@ jobs:
       - uses: athul/waka-readme@v0.2.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          CODE_LANG: python
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
