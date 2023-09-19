@@ -44,21 +44,21 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 17 June 2023 - To: 17 September 2023
+```python
+From: 11 September 2023 - To: 18 September 2023
 
-Total Time: 176 hrs 59 mins
+Total Time: 11 hrs 15 mins
 
-JavaScript       56 hrs 41 mins  ████████░░░░░░░░░░░░░░░░░   32.03 %
-TypeScript       35 hrs          █████░░░░░░░░░░░░░░░░░░░░   19.78 %
-Python           34 hrs 50 mins  █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-JSON             10 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Text             10 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Ezhil            6 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-C                5 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-YAML             3 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Markdown         2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-HTML             2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python         4 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.74 %
+Text           4 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   39.17 %
+Ezhil          34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+CBM BASIC V2   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+JSON           29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Assembly       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JavaScript     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+ActionScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Prolog         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
