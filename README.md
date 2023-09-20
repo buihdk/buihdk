@@ -45,20 +45,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
-Total Time: 11 hrs 15 mins
+Total Time: 8 hrs 18 mins
 
-Python         4 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.74 %
-Text           4 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   39.17 %
-Ezhil          34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-CBM BASIC V2   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-JSON           29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Assembly       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-JavaScript     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-ActionScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Prolog         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Text           5 hrs 25 mins   ████████████████▒░░░░░░░░   65.43 %
+JSON           56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+TypeScript     51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+JavaScript     31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Assembly       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Ezhil          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Python         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+ActionScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TSConfig       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
