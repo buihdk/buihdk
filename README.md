@@ -24,22 +24,6 @@ Here are some ideas to get you started:
   
   [![Email](https://img.shields.io/badge/Email-30B980?logo=minutemailer&logoColor=FFFFFF)](mailto:contact@buihdk.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/buihdk/) 
 
-#### Current stack 👨‍💻 
-[<img width=36 height=36 src=https://cdn.simpleicons.org/javascript alt=javascript></a>]([https://developer.mozilla.org/en-US/docs/Glossary/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/typescript alt=typescript></a>](https://typescriptlang.org)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/python alt=python></a>](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/react alt=react></a>](https://react.dev/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/graphql alt=graphql></a>](https://graphql.org/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/nodedotjs alt=nodedotjs></a>](https://nodejs.org/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/flask alt=flask></a>](https://flask.palletsprojects.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/firebase alt=firebase></a>](https://firebase.google.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/microsoftsqlserver alt=microsoftsqlserver></a>](https://www.microsoft.com/en-us/sql-server)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/sqlite alt=sqlite></a>](https://www.sqlite.org/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/expo alt=expo></a>](https://expo.dev/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/azuredevops alt=azuredevops></a>](https://azure.microsoft.com/en-us/products/devops)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/amazonaws alt=amazonaws></a>](https://aws.amazon.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width=36 height=36 src=https://cdn.simpleicons.org/openai alt=openai></a>](https://platform.openai.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-
 ---
 
 <!--START_SECTION:waka-->
