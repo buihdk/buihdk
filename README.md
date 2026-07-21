@@ -35,5 +35,5 @@ _Working on something new (an AI first product). Coming soon_
 ---
 
 ### 📫 Connect with me
-[![Email](https://img.shields.io/badge/Email-30B980?logo=minutemailer&logoColor=FFFFFF)](mailto:contact@buihdk.com) 
+[![Email](https://img.shields.io/badge/Email-30B980?logo=minutemailer&logoColor=FFFFFF)](mailto:buihdk@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/buihdk/)
