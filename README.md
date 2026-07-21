@@ -4,12 +4,10 @@ I build thoughtful products powered by AI
 ---
 
 ### 🧠 About Me
-- 💡 Engineer with 10+ years of experience turning ideas into **real, user-facing products**
+- 💡 Engineer with 15+ years of experience turning ideas into **real, user-facing products**
 - 🤖 Currently focused on **AI applications, LLM-powered workflows, and intelligent automation**
 - 🧩 Strong product and design mindset — I care deeply about **how things feel, not just how they work**
 - ⚡ Known for shipping fast, simplifying complexity, and making products **actually useful**
-- 🎓 Pursuing M.S. in Machine Learning @ Georgia Tech
-
 ---
 
 ### 🚀 What I’m Working On
