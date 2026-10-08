@@ -18,16 +18,6 @@ I build thoughtful products powered by AI
 
 ---
 
-### Side Project
-**Spendful.io**: a minimal daily spending app  
-- Focused on behavior, clarity, and calm decision making
-- Not another budgeting app, designed to reduce overthinking  
-- Exploring product market fit, monetization, and growth  
-
-_Working on something new (an AI first product). Coming soon_
-
----
-
 ### What Drives Me
 - Crafting products that people actually stick with
 - Blending engineering + product intuition + design taste
